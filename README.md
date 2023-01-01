@@ -17,6 +17,11 @@ of Static and Hybrid webpages, discuss Hugo and GitHub actions and the structure
   In Topic Three, we look at what a computational problem is. After, we discuss multiplying matrices and the different algorithms (Strassens Algorithm/Matrix Multiplication Algorithm) to do so. We then delve into time complexities for algorithms, how they are measured (Polynomial and Exponential) and how Big O Notation relates to these. Finally in this notebook we look at the Turing machine along with a Python implementation and how it uses logic gates and how they're combined.
   </p>
 </li>
+<li>
+  <p> Topic Three: Fourier Transform  <br>
+  For Topic Four, we learn about the Fourier Transform and what it is, the different theorms (Shifting, Inversion and Convolution) and their formulas. Also included is some python implementations for Fourier Transform
+  </p>
+</li>
 
 </ul>
 
