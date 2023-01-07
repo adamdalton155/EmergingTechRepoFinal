@@ -28,3 +28,6 @@ of Static and Hybrid webpages, discuss Hugo and GitHub actions and the structure
 </li>
 </ul>
 
+<h3>How to view this page</h3>
+<p> The JupyterLite Instance is hosted at https://adamdalton155.github.io/EmergingTechRepoFinal/lab/index.html</p>
+<p> Somethings to note about this. The webpage does not display the notebooks from Safari web browser. It does display correctly from Google Chrome. It has not been tested with Edge or FireFox. 
